@@ -17,12 +17,19 @@ Manual del programador.docx	Documento con información de apoyo y explicación d
 🚀 Temas principales abordados
 
 A lo largo de las prácticas se desarrollan programas que cubren:
+
 Manejo de variables y tipos de datos
+
 Entrada y salida de datos
+
 Condicionales (if, elif, else)
+
 Bucles (for, while)
+
 Listas, tuplas y diccionarios
+
 Funciones y modularización de código
+
 Validación de datos y manejo de errores
 
 🛠️ Requisitos
